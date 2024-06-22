@@ -11,8 +11,10 @@ const estado = reactive({
 })
 
 function calculadora() {
-  return 
+  return primeiroNUmero, segundoNUmero;
 }
+
+calculadora();
 //javascript
 </script>
 
